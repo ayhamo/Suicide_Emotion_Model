@@ -1,7 +1,9 @@
 # Suicide Emotion Models
 This is Jupyter files for training the 2 DNN models.
 
-below is details of both models and results
+Both models can be accessed [Here](https://drive.google.com/drive/folders/1XqI4lOd4rUfK11LFvNhlVrb0sF8ndQl5?usp=sharing)
+
+below are the details of both models and results
 
 ## First model is used to predict Suicide labels
 
